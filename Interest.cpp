@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int prob1() {
+int main() {
         float bank1 = 100;
         float bank2 = 200;
         int years = 1;
